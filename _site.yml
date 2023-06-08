@@ -2,7 +2,7 @@ name: "."
 title: "HDS_Blog"
 description: |
   HDS_Blog
-output_dir: "_site"
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"
